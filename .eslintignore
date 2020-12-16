@@ -1,0 +1,3 @@
+jest.config.js
+build/
+src/*/*.js
